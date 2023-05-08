@@ -2,6 +2,13 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:de.lproj"
+      name = "de.lproj">
+      <FileRef
+         location = "group:Localizable.strings">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:en.lproj"
       name = "en.lproj">
       <FileRef
