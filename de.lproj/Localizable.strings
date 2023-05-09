@@ -8,7 +8,7 @@
 
 /// Words
 "Authenticate" = "Authentifizieren";
-"Upcoming" = "Bevorstehend";
+"Upcoming" = "Ausstehend";
 "Dashboard" = "Dashboard";
 "Schedule" = "Zeitplan";
 "My Invoices" = "Meine Rechnungen";
@@ -109,7 +109,7 @@
 "Choose your plan" = "Wählen Sie Ihr Abo";
 "Add all your clients" = "Fügen Sie alle Ihre Kunden hinzu";
 "Customize how it sounds" = "Passen Sie den Klang an";
-"Customize it with your personal touch" = "Personalisieren Sie es nach Ihrem Geschmack";
+"Customize it with your personal touch" = "Personalisieren Sie es nach Ihren Vorlieben";
 "Keep it private" = "Halten Sie es privat";
 "Customize your home screen" = "Passen Sie Ihren Startbildschirm an";
 "Thanks for your support" = "Danke für Ihre Unterstützung";
@@ -179,7 +179,7 @@
 "Please add your first invoice from your phone. Syncing data can take a couple of seconds." = "Bitte fügen Sie Ihre erste Rechnung von Ihrem Telefon aus hinzu. Das Synchronisieren von Daten kann einige Sekunden dauern.";
 
 // The Developer
-"developer_content" = "Hallo! \n\nIch bin Jeremie Berduck, ein mobile Produkt Designer am Tag und ein Coding- und Streaming-Enthusiast in der Nacht. Ich bin in Amsterdam, Niederlande ansässig und ich liebe es, Apps live auf meinem **[[Twitch-Kanal]](https://twitch.tv/monsieurbee)** zu entwickeln. \n\nWenn Sie Feedback oder Erfahrungen zu dieser App teilen möchten, können Sie sich gerne mit mir auf **[Mastodon](https://iosdev.space/@jeremie)** verbinden. \n\nUnd wenn Ihnen die Verwendung gefällt, unterstützen Sie bitte die Indie-Entwicklung, indem Sie das Wort verbreiten und eine positive Bewertung im App Store hinterlassen. \n\nVielen Dank für Ihren Besuch! 👋";
+"developer_content" = "Hallo! \n\nIch bin Jeremie Berduck, ein Produkt Designer für Apps am Tag und ein Coding- und Streaming-Enthusiast in der Nacht. Ich bin in Amsterdam, Niederlande ansässig und ich liebe es, Apps live auf meinem **[[Twitch-Kanal]](https://twitch.tv/monsieurbee)** zu entwickeln. \n\nWenn Sie Feedback oder Erfahrungen zu dieser App teilen möchten, können Sie sich gerne mit mir auf **[Mastodon](https://iosdev.space/@jeremie)** verbinden. \n\nUnd wenn Ihnen die Verwendung gefällt, unterstützen Sie bitte die Indie-Entwicklung, indem Sie meine Posts verbreiten und eine positive Bewertung im App Store hinterlassen. \n\nVielen Dank für Ihren Besuch! 👋";
 
 // Privacy Page
 "Privacy, as rule." = "Datenschutz als Regel.";
@@ -252,8 +252,8 @@ Wenn Sie etwas finden, das nicht dieser Regel, diesem Prinzip oder diesem Wert e
 
 
 //MARK: - AppStore copy
-"promotional_text" = "Verfolgen Sie Rechnungen und kommende Einnahmen mit Demeter Invoice Tracking. Halten Sie Ihre Buchhaltung organisiert und verwalten Sie Zahlungen mühelos als freiberuflicher Selbstständiger.";
-"description" = "Als freiberuflicher Auftragnehmer ist es wichtig, den Überblick über Ihre Rechnungen und Zahlungen zu behalten, um Ihr Budget im Griff zu behalten. Mit Demeter Invoice Tracking können Sie Ihre Rechnungen problemlos buchen und verfolgen, während Sie Ihre Buchhaltung und Ihr Geld organisieren. Bleiben Sie über Ihre kommenden Einkünfte informiert und verwalten Sie Ihre Finanzen als Selbstständiger mit Leichtigkeit.
+"promotional_text" = "Verfolgen Sie Rechnungen und kommende Einnahmen mit der Demeter Rechnungsverfolgung. Halten Sie Ihre Buchhaltung organisiert und verwalten Sie Zahlungen mühelos als freiberuflicher Selbstständiger.";
+"description" = "Als freiberuflicher Auftragnehmer ist es wichtig, den Überblick über Ihre Rechnungen und Zahlungen zu behalten, um Ihr Budget im Griff zu behalten. Mit der Demeter Rechnungsverfolgung können Sie Ihre Rechnungen problemlos buchen und verfolgen, während Sie Ihre Buchhaltung und Ihr Geld organisieren. Bleiben Sie über Ihre kommenden Einkünfte informiert und verwalten Sie Ihre Finanzen als Selbstständiger mit Leichtigkeit.
 
 Hauptfunktionen:
 - Benachrichtigung bei überfälligen Rechnungen
