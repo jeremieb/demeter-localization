@@ -47,7 +47,7 @@
 
 // Main
 "Total pending:" = "Insgesamt ausstehend:";
-"A chart showing your upcoming incomes per months." = "Ein Diagramm, das Ihre kommenden Einkünfte pro Monat zeigt."
+"A chart showing your upcoming incomes per months." = "Ein Diagramm, das Ihre kommenden Einkünfte pro Monat zeigt.";
 
 // Empty States
 "Add an invoice by using the add button bellow" = "Fügen Sie eine Rechnung hinzu, indem Sie die Schaltfläche 'Hinzufügen' unten verwenden";
@@ -186,7 +186,7 @@
 "privacyContentOne" = "Meine Apps behandeln Sie so, wie ich selbst behandelt werden möchte. Das ist eine Regel, die ich auf alles anwende, was ich entwerfe und baue.
 Diese App weiß nicht, wer Sie sind, wo Sie leben und wer Ihr Lieblings-Youtuber ist.
 
-Für die Optimierung des Produkts verwende ich anonyme Nutzungsdaten, die von [TelemetryDeck](https://dashboard.telemetrydeck.com/registration/organization?referralCode=7M1YK3H1676SAUHB) bereitgestellt werden. Dieses Tool zeichnet nur "Events" auf. Wenn Sie also irgendwo tippen, wird ein Zähler ausgelöst, und das war es. Kein Standort, keine IP-Adresse, keine Benutzer-ID, kein Cross-Tracking oder Datenanalyse basierend auf Ihrem Alter, Blutgruppe oder Haarfarbe.
+Für die Optimierung des Produkts verwende ich anonyme Nutzungsdaten, die von [TelemetryDeck](https://dashboard.telemetrydeck.com/registration/organization?referralCode=7M1YK3H1676SAUHB) bereitgestellt werden. Dieses Tool zeichnet nur \"Events\" auf. Wenn Sie also irgendwo tippen, wird ein Zähler ausgelöst, und das war es. Kein Standort, keine IP-Adresse, keine Benutzer-ID, kein Cross-Tracking oder Datenanalyse basierend auf Ihrem Alter, Blutgruppe oder Haarfarbe.
 
 Die Wahrung Ihrer Privatsphäre ist für mich eine Regel.";
 
@@ -248,7 +248,7 @@ Wenn Sie etwas finden, das nicht dieser Regel, diesem Prinzip oder diesem Wert e
 // Widgets specific
 "Stay up to date from your home screen!" = "Bleiben Sie auf dem neuesten Stand von Ihrem Startbildschirm aus!";
 "You don't have any pending invoice." = "Sie haben keine ausstehende Rechnung.";
-"No pending invoice found" = "Keine ausstehende Rechnung gefunden."
+"No pending invoice found" = "Keine ausstehende Rechnung gefunden.";
 
 
 //MARK: - AppStore copy
