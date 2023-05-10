@@ -263,3 +263,18 @@ Fonctionnalités clés:
 - Ajoutez plusieurs clients (Demeter pro)
 - Protégez vos données avec le mode privé (Demeter pro)";
 "keywords" = "indépendant,pro,facture,suivi,compta,freelance,budget,gestion,autoentrepreneur,entrepreneur";
+
+/// Screenshots
+/// iOS
+"screenshot_one" = "Prévoyez vos revenus et soyez zen!";
+"screenshot_two" = "…depuis l’écran d’accueil";
+"screenshot_three" = "Vos données restent synchronisées grâce à iCloud";
+/// iPadOS
+"iPadOS_one" = "Prévoyez vos revenus et soyez zen!";
+"iPadOS_two" = "…depuis l’écran d’accueil";
+"iPadOS_three" = "Restez à jour grâce aux notifications";
+"iPadOS_four" = "Vos données restent synchronisées grâce à iCloud";
+/// macOS
+"macOS_one" = "Prévoyez vos revenus et soyez zen!";
+"macOS_two" = "Ajouter simplement une facture";
+"macOS_three" = "Vos données restent synchronisées grâce à iCloud";

@@ -264,3 +264,18 @@ Hauptfunktionen:
 - Hinzufügen mehrerer Kunden (Pro-Version)
 - Sichern Sie Daten mit dem privaten Modus (Pro-Version)";
 "keywords" = "freiberuflich, Rechnung, Zahlung, Buch, verfolgen, behalten, Buchhaltung, Geld, Auftragnehmer, Budget, Selbstständiger";
+
+/// Screenshots
+/// iOS
+"screenshot_one" = "Prognostizieren Sie Ihr Einkommen und klären Sie Ihren Geist!";
+"screenshot_two" = "…auch von Ihrem Homescreen aus";
+"screenshot_three" = "Synchronisiert auf all Ihren Geräten mit iCloud";
+/// iPadOS
+"iPadOS_one" = "Prognostizieren Sie Ihr Einkommen und klären Sie Ihren Geist!";
+"iPadOS_two" = "…auch von Ihrem Homescreen aus";
+"iPadOS_three" = "Erhalten Sie Benachrichtigungen, um Ihre Kunden zu erinnern";
+"iPadOS_four" = "Synchronisiert auf all Ihren Geräten mit iCloud";
+/// macOS
+"macOS_one" = "Prognostizieren Sie Ihr Einkommen und klären Sie Ihren Geist!";
+"macOS_two" = "Fügen Sie einfach Ihre Rechnung hinzu";
+"macOS_three" = "Synchronisiert auf all Ihren Geräten mit iCloud";

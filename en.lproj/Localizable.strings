@@ -264,3 +264,18 @@ Key features:
 - Add multiple clients (pro version)
 - Secure data with private mode (pro feature)";
 "keywords" = "freelance,invoice,payment,bill,track,book,keep,accounting,money,contractor,budget,self,employed";
+
+/// Screenshots
+/// iOS
+"screenshot_one" = "Forecast your income and clear your mind!";
+"screenshot_two" = "…from your homescreen too";
+"screenshot_three" = "Synched accross all your devices with iCloud";
+/// iPadOS
+"iPadOS_one" = "Forecast your income and clear your mind!";
+"iPadOS_two" = "…from your homescreen too";
+"iPadOS_three" = "Get notified for reminding your client";
+"iPadOS_four" = "Synched accross all your devices with iCloud";
+/// macOS
+"macOS_one" = "Forecast your income and clear your mind!";
+"macOS_two" = "Simply add your invoice";
+"macOS_three" = "Synched accross all your devices with iCloud";
