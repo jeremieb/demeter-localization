@@ -1,0 +1,281 @@
+/* 
+  Localizable.strings
+  demeter
+
+  Created by Jeremie Berduck on 18/04/2023.
+  
+*/
+
+/// Words
+"Authenticate" = "Authentifizieren";
+"Upcoming" = "Ausstehend";
+"Dashboard" = "Dashboard";
+"Schedule" = "Zeitplan";
+"My Invoices" = "Meine Rechnungen";
+"My Clients" = "Meine Kunden";
+"Settings" = "Einstellungen";
+"Invoices" = "Rechnungen";
+"Edit" = "Bearbeiten";
+"Delete" = "Löschen";
+"VAT" = "MwSt.";
+"Notifications" = "Benachrichtigungen";
+"Customizations" = "Anpassungen";
+"Widgets" = "Widgets";
+"About" = "Über uns";
+"Stats" = "Statistiken";
+"Others" = "Andere";
+"PRO" = "PRO";
+"Continue" = "Weiter";
+"Start" = "Start";
+"paid" = "bezahlt";
+"Paid" = "Bezahlt";
+"Unknown" = "Unbekannt";
+"Note" = "Notiz";
+"Cancel" = "Abbrechen";
+"Save" = "Speichern";
+"Add" = "Hinzufügen";
+"Refresh" = "Aktualisieren";
+"Back" = "Zurück";
+"Currency" = "Währung";
+"Preview" = "Vorschau";
+"Font style" = "Schriftstil";
+"Default" = "Standard";
+"Feedback" = "Feedback";
+"Today" = "Heute";
+"in " = "in ";
+"Data" = "Daten";
+"Apply" = "Anwenden";
+
+// Main
+"Total pending:" = "Insgesamt ausstehend:";
+"A chart showing your upcoming incomes per months." = "Ein Diagramm, das Ihre kommenden Einkünfte pro Monat zeigt.";
+
+// Empty States
+"Add an invoice by using the add button bellow" = "Fügen Sie eine Rechnung hinzu, indem Sie die Schaltfläche 'Hinzufügen' unten verwenden";
+"Add a client from the settings" = "Fügen Sie einen Kunden über die Einstellungen hinzu";
+"Please add an invoice from the phone app." = "Bitte fügen Sie eine Rechnung von der Telefon-App aus hinzu.";
+"There is nothing!" = "Es gibt nichts!";
+
+// List & Invoice
+"Show invoices" = "Rechnungen anzeigen";
+"Reload invoices" = "Rechnungen neu laden";
+"Paid invoices" = "Bezahlte Rechnungen";
+"Mark as paid" = "Als bezahlt markieren";
+"Are you sure?" = "Sind Sie sicher?";
+"This invoice will be deleted immediately and cannot be restaured!" = "Diese Rechnung wird sofort gelöscht und kann nicht wiederhergestellt werden!";
+"Mark as unpaid" = "Als unbezahlt markieren";
+"pending payment" = "ausstehende Zahlung";
+"New Invoice" = "Neue Rechnung";
+"Edit Invoice" = "Rechnung bearbeiten";
+"Choose a client" = "Wählen Sie einen Kunden aus";
+"Client Name" = "Kundenname";
+"Invoice Number" = "Rechnungsnummer";
+"Add an invoice number here" = "Fügen Sie hier eine Rechnungsnummer hinzu";
+"Due Date" = "Fälligkeitsdatum";
+"Select a date:" = "Wählen Sie ein Datum:";
+"Select a due date for this invoice." = "Wählen Sie ein Fälligkeitsdatum für diese Rechnung aus.";
+"Invoice total with VAT" = "Rechnungsbetrag inkl. MwSt.";
+"Invoice total amount" = "Gesamtbetrag der Rechnung";
+"Total amount:" = "Gesamtbetrag:";
+"No VAT" = "Keine MwSt.";
+"Apply %@ %" = "Anwenden %@ %";
+"Invoice with taxes" = "Rechnung mit Steuern";
+"Invoice Amount" = "Rechnungsbetrag";
+"Add a note here." = "Fügen Sie hier eine Notiz hinzu.";
+"Add here a note about this invoice." = "Fügen Sie hier eine Notiz zu dieser Rechnung hinzu.";
+"Total due:" = "Gesamtbetrag fällig:";
+"%@ with VAT" = "%@ inkl. MwSt.";
+" (VAT)" = " (MwSt.)";
+"Overdue - %@" = "Überfällig - %@";
+"Overdue since: " = "Überfällig seit: ";
+"Overdue today" = "Heute überfällig";
+" days - " = " Tage - ";
+" day - " = " Tag - ";
+"Add Invoice" = "Rechnung hinzufügen";
+
+/// Paywall
+"Restore subscription" = "Abonnement wiederherstellen";
+"Let's go!" = "Los geht's!";
+"Start your free trial" = "Starten Sie Ihre kostenlose Testphase";
+"No subscription found 🧐" = "Kein Abonnement gefunden 🧐";
+"Subscription restored 👍" = "Abonnement wiederhergestellt 👍";
+"Your subscription will start after the 7 days trial period." = "Ihr Abonnement beginnt nach der 7-tägigen Testphase.";
+"Cancel at any time." = "Jederzeit kündbar.";
+"Terms and Conditions" = "Geschäftsbedingungen";
+"Privacy Policy" = "Datenschutzrichtlinie";
+"Skip for now" = "Jetzt überspringen";
+"Subscription starts after 7 days trial" = "Das Abonnement beginnt nach einer 7-tägigen Testphase";
+"per month" = "pro Monat";
+"per year" = "pro Jahr";
+"Choose your plan" = "Wählen Sie Ihr Abo";
+"Add all your clients" = "Fügen Sie alle Ihre Kunden hinzu";
+"Customize how it sounds" = "Passen Sie den Klang an";
+"Customize it with your personal touch" = "Personalisieren Sie es nach Ihren Vorlieben";
+"Keep it private" = "Halten Sie es privat";
+"Customize your home screen" = "Passen Sie Ihren Startbildschirm an";
+"Thanks for your support" = "Danke für Ihre Unterstützung";
+"Free for 7 days" = "7 Tage kostenlos";
+
+// Settings
+"Clients" = "Kunden";
+"Manage Clients" = "Kunden verwalten";
+"Autoclean paid invoices" = "Bezahlte Rechnungen automatisch löschen";
+"App Settings" = "App-Einstellungen";
+"Private mode" = "Privater Modus";
+"App Icon" = "App-Symbol";
+"No Haptic Feedback" = "Kein haptisches Feedback";
+"The Developer" = "Der Entwickler";
+"Rate the app" = "Bewerte die App";
+"Discord Community" = "Discord-Community";
+"Demeter² on Mastodon" = "Demeter² auf Mastodon";
+"Questions, comments or praise?" = "Fragen, Kommentare oder Lob?";
+"Manage Subscription" = "Abonnement verwalten";
+"Terms of use" = "Nutzungsbedingungen";
+"Privacy" = "Datenschutz";
+"Thanks to..." = "Dank an...";
+"Delete all data" = "Alle Daten löschen";
+"Are you sure? 🤔" = "Bist du sicher? 🤔";
+"All data will be delete immediately and cannot be restored!" = "Alle Daten werden sofort gelöscht und können nicht wiederhergestellt werden!";
+"Are you really sure? 😰" = "Bist du wirklich sicher? 😰";
+"Just for confirming you know what you are doing..." = "Nur zur Bestätigung, dass du weißt, was du tust...";
+
+// Settings sub views
+"This is your client list. Add here any of your client before to add an invoice." = "Dies ist Ihre Kundenliste. Fügen Sie hier jeden Ihrer Kunden hinzu, bevor Sie eine Rechnung hinzufügen.";
+"Add a new Client" = "Neuen Kunden hinzufügen";
+"Manage Clients" = "Kunden verwalten";
+"Edit Client Name" = "Kundenname bearbeiten";
+"New client" = "Neuer Kunde";
+"Add a client" = "Kunden hinzufügen";
+"Edit this client" = "Diesen Kunden bearbeiten";
+"Choose a color: " = "Farbe wählen: ";
+"Add your client name here." = "Fügen Sie hier den Namen Ihres Kunden hinzu.";
+"Edit your client name here" = "Bearbeiten Sie hier den Namen Ihres Kunden.";
+"Add client" = "Kunden hinzufügen";
+"Chart Color" = "Diagrammfarbe";
+"Give Demeter your personal touch!" = "Geben Sie Demeter Ihre persönliche Note!";
+"Select an app icon" = "App-Symbol auswählen";
+"Thanks to..." = "Danke an...";
+"This app wouldn't exist without you folks and I'm really grateful for all these contributors." = "Diese App würde ohne Sie nicht existieren und ich bin allen Mitwirkenden wirklich dankbar.";
+"Available color schemes" = "Verfügbare Farbschemata";
+"App Color Scheme" = "App-Farbschema";
+"Get notified when an invoice should have been paid already." = "Erhalten Sie eine Benachrichtigung, wenn eine Rechnung bereits bezahlt sein sollte.";
+"Get Notified" = "Benachrichtigung erhalten";
+"Notification Sounds" = "Benachrichtigungstöne";
+"Notification Schedule" = "Benachrichtigungsplan";
+"Turn on Notifications" = "Benachrichtigungen aktivieren";
+"Choose a sound" = "Klang auswählen";
+"Please restart the app for this to apply." = "Starten Sie die App neu, um dies anzuwenden.";
+"Your currency" = "Ihre Währung";
+"Refresh data" = "Daten aktualisieren";
+
+// Onboarding
+"Forecast your income and clear your mind!" = "Ausblick auf Ihr Einkommen und bekommen Sie einen freien Kopf!";
+"Add your first client" = "Fügen Sie Ihren ersten Kunden hinzu";
+"Give it a name" = "Geben Sie ihm einen Namen";
+"Client color" = "Kundenfarbe";
+"Choose a color:" = "Wählen Sie eine Farbe:";
+"You are all set!" = "Sie sind bereit!";
+"You can now add your first invoice" = "Sie können jetzt Ihre erste Rechnung hinzufügen";
+"Thanks for downloading Demeter²" = "Vielen Dank für das Herunterladen von Demeter²";
+"Please add your first invoice from your phone. Syncing data can take a couple of seconds." = "Bitte fügen Sie Ihre erste Rechnung von Ihrem Telefon aus hinzu. Das Synchronisieren von Daten kann einige Sekunden dauern.";
+
+// The Developer
+"developer_content" = "Hallo! \n\nIch bin Jeremie Berduck, ein Produkt Designer für Apps am Tag und ein Coding- und Streaming-Enthusiast in der Nacht. Ich bin in Amsterdam, Niederlande ansässig und ich liebe es, Apps live auf meinem **[[Twitch-Kanal]](https://twitch.tv/monsieurbee)** zu entwickeln. \n\nWenn Sie Feedback oder Erfahrungen zu dieser App teilen möchten, können Sie sich gerne mit mir auf **[Mastodon](https://iosdev.space/@jeremie)** verbinden. \n\nUnd wenn Ihnen die Verwendung gefällt, unterstützen Sie bitte die Indie-Entwicklung, indem Sie meine Posts verbreiten und eine positive Bewertung im App Store hinterlassen. \n\nVielen Dank für Ihren Besuch! 👋";
+
+// Privacy Page
+"Privacy, as rule." = "Datenschutz als Regel.";
+"privacyContentOne" = "Meine Apps behandeln Sie so, wie ich selbst behandelt werden möchte. Das ist eine Regel, die ich auf alles anwende, was ich entwerfe und baue.
+Diese App weiß nicht, wer Sie sind, wo Sie leben und wer Ihr Lieblings-Youtuber ist.
+
+Für die Optimierung des Produkts verwende ich anonyme Nutzungsdaten, die von [TelemetryDeck](https://dashboard.telemetrydeck.com/registration/organization?referralCode=7M1YK3H1676SAUHB) bereitgestellt werden. Dieses Tool zeichnet nur \"Events\" auf. Wenn Sie also irgendwo tippen, wird ein Zähler ausgelöst, und das war es. Kein Standort, keine IP-Adresse, keine Benutzer-ID, kein Cross-Tracking oder Datenanalyse basierend auf Ihrem Alter, Blutgruppe oder Haarfarbe.
+
+Die Wahrung Ihrer Privatsphäre ist für mich eine Regel.";
+
+"Security, as principle." = "Sicherheit als Prinzip.";
+"privacyContentTwo" = "Diese App erfordert kein Konto oder die Weitergabe Ihrer E-Mail-Adresse. Ihre privaten Daten sind eine Verantwortung, die ich nicht übernehmen möchte. So einfach ist das.
+
+Ich betrachte Sicherheit nicht als Option. Deshalb nutzt diese App standardmäßig iCloud, um Ihre Daten auf Ihren Geräten zu synchronisieren. Es ist im Grunde der gleiche Dienst, den Ihr Telefon zum Speichern Ihres Adressbuchs verwendet. Nichts weniger, nichts mehr.";
+
+"Respectful, as value." = "Respektvoll als Wert.";
+"privacyContentThree" = "Sie sind ein Held. Diese App ist das Ergebnis von Stunden harter Arbeit in meiner Freizeit, und zu wissen, dass Sie sie gefunden haben, bedeutet mir viel. Vielen Dank.
+
+Respekt ist ein Menschenrecht, unabhängig davon, wer Sie sind, und ich werde immer mein Bestes geben, um Produkte zu produzieren, die für alle inklusiv und respektvoll sind.
+
+Wenn Sie etwas finden, das nicht dieser Regel, diesem Prinzip oder diesem Wert entspricht, kontaktieren Sie mich bitte sofort.";
+
+// Feedback
+"I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️" = "Ich schätze konstruktives Feedback sehr. Wenn Sie ein Problem haben oder Ihre Ideen zur Verbesserung dieser App teilen möchten, verwenden Sie bitte dieses Formular. ☺️";
+"Describe your request" = "Beschreiben Sie Ihre Anfrage";
+"Report an issue" = "Ein Problem melden";
+"Feature request" = "Funktionsanfrage";
+"Give it a name." = "Geben Sie ihm einen Namen.";
+"Adding teleportation" = "Hinzufügen von Teleportation";
+"Let's stay in touch" = "Bleiben wir in Kontakt";
+"Please be specific." = "Bitte seien Sie spezifisch.";
+"Text Editor" = "Texteditor";
+"Request sent" = "Anfrage gesendet";
+"Something went wrong" = "Etwas ist schiefgegangen";
+"Reset button" = "Zurücksetzen-Schaltfläche";
+"Text Field" = "Textfeld";
+ 
+// Stats view
+"First Install" = "Erstinstallation";
+"Total Invoiced" = "Insgesamt abgerechnet";
+"Invoices Count" = "Anzahl der Rechnungen";
+"iCloud Status" = "iCloud-Status";
+
+// VAT View
+"Manual selection of VAT on each invoice" = "Sie können manuell auswählen, ob diese MwSt. auf jeder Rechnung angewendet werden soll oder nicht.";
+"Add your VAT percentage here" = "Fügen Sie hier Ihren MwSt.-Prozentsatz hinzu";
+"Applied VAT percentage is" = "Angewendeter MwSt.-Prozentsatz ist";
+"VAT %" = "MwSt. %";
+"VAT can be added or edited from the phone app" = "MwSt. kann von der Telefon-App aus hinzugefügt oder bearbeitet werden.";
+"VAT value" = "MwSt.-Wert";
+
+// Notifications schedule
+"Due date" = "Fälligkeitsdatum";
+"After one day" = "Nach einem Tag";
+"After two days" = "Nach zwei Tagen";
+"After three days" = "Nach drei Tagen";
+"After four days" = "Nach vier Tagen";
+"After five days" = "Nach fünf Tagen";
+"After one week" = "Nach einer Woche";
+
+// Invoice clean schedule
+"after 30 days" = "nach 30 Tagen";
+"after 60 days" = "nach 60 Tagen";
+"after 90 days" = "nach 90 Tagen";
+
+// Widgets specific
+"Stay up to date from your home screen!" = "Bleiben Sie auf dem neuesten Stand von Ihrem Startbildschirm aus!";
+"You don't have any pending invoice." = "Sie haben keine ausstehende Rechnung.";
+"No pending invoice found" = "Keine ausstehende Rechnung gefunden.";
+
+
+//MARK: - AppStore copy
+"promotional_text" = "Verfolgen Sie Rechnungen und kommende Einnahmen mit der Demeter Rechnungsverfolgung. Halten Sie Ihre Buchhaltung organisiert und verwalten Sie Zahlungen mühelos als freiberuflicher Selbstständiger.";
+"description" = "Als freiberuflicher Auftragnehmer ist es wichtig, den Überblick über Ihre Rechnungen und Zahlungen zu behalten, um Ihr Budget im Griff zu behalten. Mit der Demeter Rechnungsverfolgung können Sie Ihre Rechnungen problemlos buchen und verfolgen, während Sie Ihre Buchhaltung und Ihr Geld organisieren. Bleiben Sie über Ihre kommenden Einkünfte informiert und verwalten Sie Ihre Finanzen als Selbstständiger mit Leichtigkeit.
+
+Hauptfunktionen:
+- Benachrichtigung bei überfälligen Rechnungen
+- Anzeige von Zahlungsbeträgen des Kunden mit einem Fingertipp
+- Behalten Sie Zahlungen mit einem Widget auf dem Startbildschirm im Auge
+- Synchronisieren Sie Daten über Geräte hinweg mit iCloud-Integration
+- Hinzufügen mehrerer Kunden (Pro-Version)
+- Sichern Sie Daten mit dem privaten Modus (Pro-Version)";
+"keywords" = "freiberuflich, Rechnung, Zahlung, Buch, verfolgen, behalten, Buchhaltung, Geld, Auftragnehmer, Budget, Selbstständiger";
+
+/// Screenshots
+/// iOS
+"screenshot_one" = "Prognostizieren Sie Ihr Einkommen und klären Sie Ihren Geist!";
+"screenshot_two" = "…auch von Ihrem Homescreen aus";
+"screenshot_three" = "Synchronisiert auf all Ihren Geräten mit iCloud";
+/// iPadOS
+"iPadOS_one" = "Prognostizieren Sie Ihr Einkommen und klären Sie Ihren Geist!";
+"iPadOS_two" = "…auch von Ihrem Homescreen aus";
+"iPadOS_three" = "Erhalten Sie Benachrichtigungen, um Ihre Kunden zu erinnern";
+"iPadOS_four" = "Synchronisiert auf all Ihren Geräten mit iCloud";
+/// macOS
+"macOS_one" = "Prognostizieren Sie Ihr Einkommen und klären Sie Ihren Geist!";
+"macOS_two" = "Fügen Sie einfach Ihre Rechnung hinzu";
+"macOS_three" = "Synchronisiert auf all Ihren Geräten mit iCloud";

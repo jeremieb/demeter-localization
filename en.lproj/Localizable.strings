@@ -1,0 +1,281 @@
+/* 
+  Localizable.strings
+  demeter
+
+  Created by Jeremie Berduck on 18/04/2023.
+  
+*/
+
+/// Words
+"Authenticate" = "Authenticate";
+"Upcoming" = "Upcoming";
+"Dashboard" = "Dashboard";
+"Schedule" = "Schedule";
+"My Invoices" = "My Invoices";
+"My Clients" = "My Clients";
+"Settings" = "Settings";
+"Invoices" = "Invoices";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"VAT" = "VAT";
+"Notifications" = "Notifications";
+"Customizations" = "Customizations";
+"Widgets" = "Widgets";
+"About" = "About";
+"Stats" = "Stats";
+"Others" = "Others";
+"PRO" = "PRO";
+"Continue" = "Continue";
+"Start" = "Start";
+"paid" = "paid";
+"Paid" = "Paid";
+"Unknown" = "Unknown";
+"Note" = "Note";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"Add" = "Add";
+"Refresh" = "Refresh";
+"Back" = "Back";
+"Currency" = "Currency";
+"Preview" = "Preview";
+"Font style" = "Font style";
+"Default" = "Default";
+"Feedback" = "Feedback";
+"Today" = "Today";
+"in " = "in ";
+"Data" = "Data";
+"Apply" = "Apply";
+
+// Main
+"Total pending:" = "Total pending:";
+"A chart showing your upcoming incomes per months." = "A chart showing your upcoming incomes per months.";
+
+// Empty States
+"Add an invoice by using the add button bellow" = "Add an invoice by using the add button bellow";
+"Add a client from the settings" = "Add a client from the settings";
+"Please add an invoice from the phone app." = "Please add an invoice from the phone app.";
+"There is nothing!" = "There is nothing!";
+
+// List & Invoice
+"Show invoices" = "Show invoices";
+"Reload invoices" = "Reload invoices";
+"Paid invoices" = "Paid invoices";
+"Mark as paid" = "Mark as paid";
+"Are you sure?" = "Are you sure?";
+"This invoice will be deleted immediately and cannot be restaured!" = "This invoice will be deleted immediately and cannot be restaured!";
+"Mark as unpaid" = "Mark as unpaid";
+"pending payment" = "pending payment";
+"New Invoice" = "New Invoice";
+"Edit Invoice" = "Edit Invoice";
+"Choose a client" = "Choose a client";
+"Client Name" = "Client Name";
+"Invoice Number" = "Invoice Number";
+"Add an invoice number here" = "Add an invoice number here";
+"Due Date" = "Due Date";
+"Select a date:" = "Select a date:";
+"Select a due date for this invoice." = "Select a due date for this invoice.";
+"Invoice total with VAT" = "Invoice total with VAT";
+"Invoice total amount" = "Invoice total amount";
+"Total amount:" = "Total amount:";
+"No VAT" = "No VAT";
+"Apply %@ %" = "Apply %@ %";
+"Invoice with taxes" = "Invoice with taxes";
+"Invoice Amount" = "Invoice Amount";
+"Add a note here." = "Add a note here.";
+"Add here a note about this invoice." = "Add here a note about this invoice.";
+"Total due:" = "Total due:";
+"%@ with VAT" = "%@ with VAT";
+" (VAT)" = " (VAT)";
+"Overdue - %@" = "Overdue - %@";
+"Overdue since: " = "Overdue since: ";
+"Overdue today" = "Overdue today";
+" days - " = " days - ";
+" day - " = " day - ";
+"Add Invoice" = "Add Invoice";
+
+/// Paywall
+"Restore subscription" = "Restore subscription";
+"Let's go!" = "Let's go!";
+"Start your free trial" = "Start your free trial";
+"No subscription found 🧐" = "No subscription found 🧐";
+"Subscription restored 👍" = "Subscription restored 👍";
+"Your subscription will start after the 7 days trial period." = "Your subscription will start after the 7 days trial period.";
+"Cancel at any time." = "Cancel at any time.";
+"Terms and Conditions" = "Terms and Conditions";
+"Privacy Policy" = "Privacy Policy";
+"Skip for now" = "Skip for now";
+"Subscription starts after 7 days trial" = "Subscription starts after 7 days trial";
+"per month" = "per month";
+"per year" = "per year";
+"Choose your plan" = "Choose your plan";
+"Add all your clients" = "Add all your clients";
+"Customize how it sounds" = "Customize how it sounds";
+"Customize it with your personal touch" = "Customize it with your personal touch";
+"Keep it private" = "Keep it private";
+"Customize your home screen" = "Customize your home screen";
+"Thanks for your support" = "Thanks for your support";
+"Free for 7 days" = "Free for 7 days";
+
+// Settings
+"Clients" = "Clients";
+"Manage Clients" = "Manage Clients";
+"Autoclean paid invoices" = "Autoclean paid invoices";
+"App Settings" = "App Settings";
+"Private mode" = "Private mode";
+"App Icon" = "App Icon";
+"No Haptic Feedback" = "No Haptic Feedback";
+"The Developer" = "The Developer";
+"Rate the app" = "Rate the app";
+"Discord Community" = "Discord Community";
+"Demeter² on Mastodon" = "Demeter² on Mastodon";
+"Questions, comments or praise?" = "Questions, comments or praise?";
+"Manage Subscription" = "Manage Subscription";
+"Terms of use" = "Terms of use";
+"Privacy" = "Privacy";
+"Thanks to..." = "Thanks to...";
+"Delete all data" = "Delete all data";
+"Are you sure? 🤔" = "Are you sure? 🤔";
+"All data will be delete immediately and cannot be restaured!" = "All data will be delete immediately and cannot be restaured!";
+"Are you really sure? 😰" = "Are you really sure? 😰";
+"Just for confirming you know what you are doing..." = "Just for confirming you know what you are doing...";
+
+// Settings sub views
+"This is your client list. Add here any of your client before to add an invoice." = "This is your client list. Add here any of your client before to add an invoice.";
+"Add a new Client" = "Add a new Client";
+"Manage Clients" = "Manage Clients";
+"Edit Client Name" = "Edit Client Name";
+"New client" = "New client";
+"Add a client" = "Add a client";
+"Edit this client" = "Edit this client";
+"Choose a color: " = "Choose a color: ";
+"Add your client name here." = "Add your client name here.";
+"Edit your client name here" = "Edit your client name here";
+"Add client" = "Add client";
+"Chart Color" = "Chart Color";
+"Give Demeter your personal touch!" = "Give Demeter your personal touch!";
+"Select an app icon" = "Select an app icon";
+"Thanks to..." = "Thanks to...";
+"This app wouldn't exist without you folks and I'm really grateful for all these contributors." = "This app wouldn't exist without you folks and I'm really grateful for all these contributors.";
+"Available color schemes" = "Available color schemes";
+"App Color Scheme" = "App Color Scheme";
+"Get notified when an invoice should have been paid already." = "Get notified when an invoice should have been paid.";
+"Get Notified" = "Get Notified";
+"Notification Sounds" = "Notification Sounds";
+"Notification Schedule" = "Notification Schedule";
+"Turn on Notifications" = "Turn on Notifications";
+"Choose a sound" = "Choose a sound";
+"Please restart the app for this to apply." = "Please restart the app for this to apply.";
+"Your currency" = "Your currency";
+"Refresh data" = "Refresh data";
+
+// Onboarding
+"Forecast your income and clear your mind!" = "Forecast your income and clear your mind!";
+"Add your first client" = "Add your first client";
+"Give it a name" = "Give it a name";
+"Client color" = "Client color";
+"Choose a color:" = "Choose a color:";
+"You are all set!" = "You are all set!";
+"You can now add your first invoice" = "You can now add your first invoice";
+"Thanks for downloading Demeter²" = "Thanks for downloading Demeter²";
+"Please add your first invoice from your phone. Syncing data can take a couple of seconds." = "Please add your first invoice from your phone. Syncing data can take a couple of seconds.";
+
+// The Developer
+"developer_content" = "Hey there! \n\nI'm Jeremie Berduck, a mobile product designer by day and a coding and streaming enthusiast by night. I'm based in Amsterdam, Netherlands, and I love to develop apps live on my **[Twitch channel](https://twitch.tv/monsieurbee)**. \n\nIf you have any feedback or experiences to share about this app, feel free to connect with me **[on Mastodon](https://iosdev.space/@jeremie)**. \n\nAnd if you enjoy using it, please consider supporting indie development by spreading the word and leaving a positive review on the app store. \n\nThanks for stopping by! 👋";
+
+// Privacy Page
+"Privacy, as rule." = "Privacy, as rule.";
+"privacyContentOne" = "My apps are all treating you like I would like to be treated. That’s a rule I applied on everything I am doing, designing and building.
+This app doesn’t know who you are, where you’re living and who is your favorite Youtuber.
+
+For product optimization I am using anonymous usage data provided by [TelemetryDeck](https://dashboard.telemetrydeck.com/registration/organization?referralCode=7M1YK3H1676SAUHB). This tool is only recording “events”. Meaning when you’re tapping somewhere, a counter is triggered, and that’s it. No location, no IP address, no user-id, no cross-tracking or data analysis based on your age, blood type or hair color.
+
+Respecting your privacy is a rule for me.";
+
+"Security, as principle." = "Security, as principle.";
+"privacyContentTwo" = "This app doesn’t require you to open an account or share your email address. Your private data is a responsibility I don’t want. It’s as simple as this.
+
+I don’t take security as an option. That’s why this app is by default using iCloud for syncing your data across your devices. It’s basicaly the same service your phone is using for saving your address book. Nothing less, nothing more.";
+
+"Respectful, as value." = "Respectful, as value.";
+"privacyContentThree" = "You are a hero. This app is the result of hours of work on my spare time and knowing you just find it means a lot to me. Thank you.
+
+Respect is a human right, whoever you are and I will always do my best for producing products that are inclusive and respectful for all.
+
+If you find anything that does not follow this rule, this principle or this value, please contact me immediately.";
+
+// Feedback
+"I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️" = "I really appreciate constructive feedback. If you're experiencing an issue or if you want to share some of your ideas for improving this app, feel free to use this form for it. ☺️";
+"Describe your request" = "Describe your request";
+"Report an issue" = "Report an issue";
+"Feature request" = "Feature request";
+"Give it a name." = "Give it a name";
+"Adding teleportation" = "Adding teleportation";
+"Let's stay in touch" = "Let's stay in touch";
+"Please be specific." = "Please be specific";
+"Text Editor" = "Text Editor";
+"Request sent" = "Request sent";
+"Something went wrong" = "Something went wrong";
+"Reset button" = "Reset button";
+"Text Field" = "Text Field";
+ 
+// Stats view
+"First Install" = "First Install";
+"Total Invoiced" = "Total Invoiced";
+"Invoices Count" = "Invoices Count";
+"iCloud Status" = "iCloud Status";
+
+// VAT View
+"You can select manually to apply or not this VAT on each invoice." = "You can select manually to apply or not this VAT on each invoice.";
+"Add your VAT percentage here" = "Add your VAT percentage here";
+"Applied VAT percentage is" = "Applied VAT percentage is";
+"VAT %" = "VAT %";
+"You can add or edit VAT from the phone app." = "You can add or edit VAT from the phone app.";
+"VAT value" = "VAT value";
+
+// Notifications schedule
+"Due date" = "Due date";
+"After one day" = "After one day";
+"After two days" = "After two days";
+"After three days" = "After three days";
+"After four days" = "After four days";
+"After five days" = "After five days";
+"After one week" = "After one week";
+
+// Invoice clean schedule
+"after 30 days" = "after 30 days";
+"after 60 days" = "after 60 days";
+"after 90 days" = "after 90 days";
+
+// Widgets specific
+"Stay up to date from your home screen!" = "Stay up to date from your home screen!";
+"You don't have any pending invoice." = "You don't have any pending invoice.";
+"No pending invoice found" = "No pending invoice found";
+
+
+//MARK: - AppStore copy
+"promotional_text" = "Track invoices & upcoming income with Demeter Invoice Tracking. Keep your accounting organized and manage payments effortlessly as a self-employed freelancer.";
+"description" = "As a freelance contractor, it's essential to keep track of your invoices and payments to stay on top of your budget. With Demeter Invoice Tracking, you can effortlessly book and track your bills while keeping your accounting and money organized. Stay aware of your upcoming income and manage your finances as a self-employed individual with ease.
+
+Key features:
+- Get notified when invoices are overdue
+- Easily view client payment amounts with a single tap
+- Stay on top of payments with a home screen widget
+- Sync data across devices with iCloud integration
+- Add multiple clients (pro version)
+- Secure data with private mode (pro feature)";
+"keywords" = "freelance,invoice,payment,bill,track,book,keep,accounting,money,contractor,budget,self,employed";
+
+/// Screenshots
+/// iOS
+"screenshot_one" = "Forecast your income and clear your mind!";
+"screenshot_two" = "…from your homescreen too";
+"screenshot_three" = "Synched accross all your devices with iCloud";
+/// iPadOS
+"iPadOS_one" = "Forecast your income and clear your mind!";
+"iPadOS_two" = "…from your homescreen too";
+"iPadOS_three" = "Get notified for reminding your client";
+"iPadOS_four" = "Synched accross all your devices with iCloud";
+/// macOS
+"macOS_one" = "Forecast your income and clear your mind!";
+"macOS_two" = "Simply add your invoice";
+"macOS_three" = "Synched accross all your devices with iCloud";

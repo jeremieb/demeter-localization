@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:de.lproj"
+      name = "de.lproj">
+      <FileRef
+         location = "group:Localizable.strings">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:en.lproj"
+      name = "en.lproj">
+      <FileRef
+         location = "group:Localizable.strings">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:fr-CA.lproj"
+      name = "fr-CA.lproj">
+      <FileRef
+         location = "group:Localizable.strings">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:fr.lproj"
+      name = "fr.lproj">
+      <FileRef
+         location = "group:Localizable.strings">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
